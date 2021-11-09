@@ -8,18 +8,18 @@ Dependencies :
  Python programming language 
 
 Packages : 
- Tensorflow
- Matplotlib
+ Tensorflow,
+ Matplotlib,
  Numpy
 
-Data Set :
+Dataset :
  https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip
 
 Overview :
 
 
 Accuracy :
- accuracy : 88,08 %
- val_accuracy : 93,75 %
+ - accuracy : 88,08 %
+ - val_accuracy : 93,75 %
 
 
