@@ -5,11 +5,21 @@ The purpose of this project is to create a model to classify images from the giv
  
 # Getting Started 
 Dependencies : 
-Python programming language 
-Installing : 
-R Studio 
-Executing program : 
-Statistic summary 
-Box plot visualization 
-Histogram visualization 
-One sample t-test
+ Python programming language 
+
+Packages : 
+ Tensorflow
+ Matplotlib
+ Numpy
+
+Data Set :
+ https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip
+
+Overview :
+
+
+Accuracy :
+ accuracy : 88,08 %
+ val_accuracy : 93,75 %
+
+
